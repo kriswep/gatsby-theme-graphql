@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-theme-graphcms-sample",
-  "version": "0.1.0",
+  "name": "gatsby-theme-graphql-sample",
+  "version": "0.0.1",
   "private": true,
-  "description": "Sample for using gatsby-theme-graphcms",
+  "description": "Sample for using gatsby-theme-graphql",
   "main": "index.js",
   "author": "Christoph Benjamin Weber",
   "license": "MIT",
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "gatsby": "^2.1.17",
-    "gatsby-theme-graphcms": "^0.1.0",
+    "gatsby-theme-graphql": "^0.1.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   }

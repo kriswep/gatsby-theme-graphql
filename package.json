@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-graphcms-root",
+  "name": "gatsby-theme-graphql-root",
   "private": true,
   "workspaces": [
     "samples/*",
