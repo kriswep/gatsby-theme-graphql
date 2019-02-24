@@ -1,6 +1,6 @@
 {
   "name": "gatsby-theme-graphql-sample",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "private": true,
   "description": "Sample for using gatsby-theme-graphql",
   "main": "index.js",
